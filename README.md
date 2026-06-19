@@ -1,4 +1,4 @@
-# Airline Passenger Satistisfaction Analysis
+# Airline Passenger Satisfaction Analysis
 
 ## Project Overview
 
